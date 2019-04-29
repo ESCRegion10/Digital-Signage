@@ -1,0 +1,8 @@
+.screensaver__container__reserved__subject,
+.screensaver__container__available__subject {
+  line-height: 1.2;
+  display: inline-block;
+  white-space: normal;
+  text-overflow:;
+  overflow: visible;
+  max-width: 100vh; }
